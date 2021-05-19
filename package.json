@@ -1,0 +1,27 @@
+{
+  "name": "microservices",
+  "version": "0.0.1",
+  "description": "Microservices exercise using NPM, Node, Express, MongoDB, and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codersk/node-microservices.git"
+  },
+  "keywords": [
+    "Microservices",
+    "NPM",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "codersk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codersk/node-microservices/issues"
+  },
+  "homepage": "https://github.com/codersk/node-microservices#readme"
+}
